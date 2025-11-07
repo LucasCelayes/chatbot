@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Chatbot IA - Il Vestito</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f5f5f5;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin: 0;
+      padding: 20px;
+      height: 100vh;
+    }
+
+    h1 {
+      color: #d6336c;
+      margin-bottom: 10px;
+    }
+
+    #chat {
+      width: 100%;
+      max-width: 500px;
+      background: #fff;
+      border-radius: 10px;
+      padding: 15px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      height: 400px;
+      overflow-y: auto;
+      display: block;
+    }
+
+    .mensaje {
+      margin: 8px 0;
+      padding: 10px;
+      border-radius: 10px;
+      max-width: 80%;
+      word-wrap: break-word;
+      transition: all 0.2s ease;
+    }
+
+    .usuario {
+      background: #d6336c;
+      color: #fff;
+      text-align: right;
+      margin-left: auto;
+    }
+
+    .bot {
+      background: #e9ecef;
+      color: #333;
+      margin-right: auto;
+    }
+
+    #entrada {
+      display: flex;
+      margin-top: 15px;
+      width: 100%;
+      max-width: 500px;
+    }
+
+    #mensaje {
+      flex: 1;
+      padding: 10px;
+      font-size: 1em;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+
+    #enviar {
+      margin-left: 8px;
+      padding: 10px 20px;
+      font-size: 1em;
+      background: #d6336c;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    #enviar:hover {
+      background: #b82e5a;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>🤵 Chatbot IA - Il Vestito</h1>
+  <div id="chat"></div>
+
+  <div id="entrada">
+    <input id="mensaje" placeholder="Escribí tu mensaje..." autocomplete="off" />
+    <button id="enviar">Enviar</button>
+  </div>
+
+  <script>
+    const chat = document.getElementById("chat");
+    const input = document.getElementById("mensaje");
+    const btn = document.getElementById("enviar");
+
+    // Función para agregar mensajes y asegurar persistencia
+    function agregarMensaje(texto, clase) {
+      const div = document.createElement("div");
+      div.classList.add("mensaje", clase);
+      div.textContent = texto;
+      chat.appendChild(div);
+      chat.scrollTop = chat.scrollHeight;
+      // ✅ Reforzar que no se borre por repaint
+      setTimeout(() => (chat.scrollTop = chat.scrollHeight), 50);
+    }
+
+    async function enviarMensaje() {
+      const texto = input.value.trim();
+      if (!texto) return;
+
+      agregarMensaje(texto, "usuario");
+      input.value = "";
+
+      // Mostrar “Escribiendo…”
+      const typing = document.createElement("div");
+      typing.classList.add("mensaje", "bot");
+      typing.textContent = "Escribiendo...";
+      chat.appendChild(typing);
+      chat.scrollTop = chat.scrollHeight;
+
+      try {
+       const res = await fetch("/chat",  {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ mensaje: texto })
+        });
+
+        const data = await res.json();
+
+        // ✅ No usar remove(): lo reemplazamos manualmente
+        typing.textContent = data.respuesta || "⚠️ No se recibió respuesta del bot";
+      } catch (err) {
+        typing.textContent = "❌ Error al conectar con el servidor";
+        console.error(err);
+      }
+    }
+
+    btn.addEventListener("click", enviarMensaje);
+    input.addEventListener("keypress", (e) => {
+      if (e.key === "Enter") enviarMensaje();
+    });
+
+    // Saludo inicial
+    window.onload = () => {
+      agregarMensaje("👋 ¡Hola! Soy el asistente virtual de Il Vestito. ¿En qué puedo ayudarte hoy?", "bot");
+    };
+  </script>
+</body>
+</html>

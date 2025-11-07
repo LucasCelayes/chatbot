@@ -1,0 +1,17 @@
+{
+  "name": "chatbot-ilvestito",
+  "version": "1.0.0",
+  "description": "Asistente virtual de Il Vestito - Chatbot con IA usando Express y OpenAI",
+  "author": "Lucas Celayes",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
