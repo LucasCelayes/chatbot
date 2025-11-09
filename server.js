@@ -35,6 +35,12 @@ Información básica:
 - Pagos: Efectivo o Mercado Pago
 - Garantia: $1000 (en efectivo)
 - Seña: 50% del costo de alquiler (no reembolsable)
+-Garantia: solo en efectivo
+
+- Redes sociales oficiales:
+  • Instagram: https://www.instagram.com/ilvestitouy/
+  • Facebook: https://www.facebook.com/ilvestitouy
+  
 
 2. VALOR DEL ALQUILER
 El valor del alquiler de las prendas de Il Vestito se detalla a continuación:
@@ -43,13 +49,14 @@ El valor del alquiler de las prendas de Il Vestito se detalla a continuación:
 - Chalecos .......... $450 — Chaleco niño .......... $300
 - Zapatos .......... $650 — Zapatos niño .......... $500
 - Accesorios (corbata, moños, tiradores, cinturón, pañuelos) .......... $200 c/u
-- Camisa niño .......... $400
+- Camisa niño alquiler .......... $400
 
 A la venta:
-- Camisa .......... $990
+- Camisa de adulto a la venta .......... $990
+- garantia 1000 pesos en efectivo
 
 Además del monto del alquiler, se solicita una garantia valor $1000 (en efectivo).
-Los medios de pago son en efectivo o Mercado Pago.
+Los medios de pago son en efectivo o Mercado Pago (la garantia solo en efectivo).
 
 Luego de esta información, se incluyen los Términos y Condiciones de Uso completos de Il Vestito:
 
@@ -76,10 +83,12 @@ El valor del alquiler de las prendas de Il Vestito se detalla a continuación:
 - Chalecos .......... $450 — Chaleco niño .......... $300
 - Zapatos .......... $650 — Zapatos niño .......... $500
 - Accesorios (corbata, moños, tiradores, cinturón, pañuelos) .......... $200 c/u
-- Camisa niño .......... $400
+- Camisa niño en alquiler .......... $400
+
 
 A la venta:
-- Camisa .......... $990
+- Camisa de adulto a la venta .......... $990
+-garantia 1000 pesos en efectivo
 
 Además del monto del alquiler, se solicita un depósito valor $1000 (en efectivo).
 Los medios de pago son en efectivo o Mercado Pago.
@@ -88,18 +97,21 @@ Los medios de pago son en efectivo o Mercado Pago.
 Para reservar la prenda, Il Vestito cobra una seña del 50% del costo de alquiler, la cual no se reintegra por ningún motivo. 
 En caso de que se deje una seña mayor al 50% del alquiler, la diferencia tampoco se reintegra, pero la misma queda a su disposición para ser usada con un límite máximo de un mes a partir de la fecha en que se hizo la reserva. 
 Siempre y cuando el traje no haya sido preparado para retirar (se solicita al cliente que cualquier cancelación se comunique con el local 48 hs antes de la fiesta en lo posible de manera presencial).
-La seña no es transferible.
+
 
 4. RETIRO Y DEVOLUCIONES
 La prenda se retira el mismo día de la fiesta, en caso de necesitar retirarla el día anterior únicamente se podrá hacer de 17:30 a 18:30 hs.
-En caso de hacerlo luego de 18:30 hs se esperará al cliente con horario máximo 19:30 hs y el mismo deberá abonar $100 pesos uruguayos cada 30 minutos de atraso.
-En caso de que el día de retiro sea sábado se esperará hasta las 14:30 hs.
+En caso de hacerlo luego de 18:30 hs se esperará al cliente con horario máximo 19:30 hs y el mismo deberá abonar $100 pesos uruguayos cada 30 minutos de atraso,
+en caso de que el día de retiro sea sábado se esperará hasta las 14:30 hs.
 Si el cliente desea retirar el traje antes del horario establecido tendrá un costo de $250 adicional al monto del alquiler y depósito por cada día extra.
-Cuando el evento es de lunes a jueves la prenda deberá reintegrarse si o sí al otro día, cuando el evento es sábado o domingo la prenda se reintegra el lunes.
+Cuando el evento es de lunes a jueves la prenda deberá reintegrarse si o sí al otro día, cuando el evento es viernes, sábado o domingo la prenda se reintegra el lunes.
 El horario tanto para retiros como para devoluciones es el habitual del local.
+Por atraso de la entrega de la prenda se genera una multa equivalente al 50% del valor del deposito.
 Por atraso en la entrega que excede los dos días, se cobra el 100% del valor del depósito.
+La prenda debera volver en la misma bolsa y percha en la cual fue entregada de lo contrario tambien se generara una multa al 50% del valor del deposito
 Si el tiempo de devolución no se cumple tal cual fue entregada, de lo contrario también se generará una multa equivalente al 50% del valor del depósito.
 El lavado de la prenda corre por cuenta de Il Vestito.
+
 
 5. CAMBIOS
 Una vez señalada/s la/s prenda/s, la única forma de realizar un cambio es abonando el 50% del alquiler de la/s nueva/s prenda/s.
@@ -118,10 +130,21 @@ Horario de atención: lunes a viernes de 11:00 hs a 18:30 hs / sábados de 11:00
 // dentro de contextoNegocio:
 Por favor tener en cuenta también:
 
-- Es obligatorio presentar la **cédula de identidad** al momento de realizar cualquier alquiler o compra.
+- Es obligatorio presentar la **cédula de identidad** al momento de realizar cualquier alquiler.
 - Las consultas sobre **talles, medidas o pruebas de prendas** se realizan **únicamente en el local**, ya que cada cuerpo y modelo puede variar.
 - No se reservan prendas sin seña ni sin confirmar la talla presencialmente.
 - Para mayor seguridad, recomendamos venir personalmente al local para probarse el traje y confirmar los detalles.
+- Los trajes de adulto vienen desde el talle 36 al 70.
+- En niños vienen desde meses hasta los 14 años.
+- Se recomienda venir 2 semanas antes para mayor disponibilidad.
+- Para agendarte fuera de nuestro horario de atencion por favor enviar un msj y esperar nuestra respuesta.
+- Se puede ir a retirar el traje sin el contrato pero si con la cedula.
+- Los retiros son el dia anterior al evento de 17 y 30 a 18 y 30 o el mismo dia del evento en horario de atencion.
+-si il vestito quedo de avisar a un cliente sobre la devolucion de una garantia y consultan por eso, responder que se avisa los miercoles en el correr del dia.
+- si todo viene en tiempo y forma la garantia se devuelve.
+-si el cliente quiere agendarse, nos pasa con anticipación el día y hora que te gustaría agendar .
+⁠Para agendar debes pagar una reserva de $100 , la misma se descuenta del alquiler .
+En el caso de no alquilar se te devuelve , sino asistís se retiene y siempre tiene que esperar confirmacion final de ilvestito.
 
 `;
 
@@ -154,6 +177,9 @@ const saludos = [
   "¡Bienvenido a Il Vestito! 😊 Estoy acá para ayudarte con precios, reservas o devoluciones.",
   "¡Hola! Soy el asistente de Il Vestito 👔. ¿Querés consultar disponibilidad o precios?"
 ];
+// 🚫 Aviso automático si el cliente envía audios o mensajes no de texto
+const avisoAudios = "📢 Por favor escribí tu consulta por mensaje. El asistente no puede procesar audios o notas de voz. Gracias 😊";
+
 // ====== PRECIOS CENTRALES (fácil de mantener) ======
 const PRECIOS = {
   traje: "Traje (pantalón y saco) $1300.",
@@ -161,8 +187,9 @@ const PRECIOS = {
   pantalon: "Solo pantalón $750 (si necesita dobladillo el costo es $850).",
   chaleco: "Chaleco $450 — Chaleco niño $300.",
   zapatos: "Zapatos $650 — Zapatos niño $500.",
-  camisa: "Camisa niño $400. A la venta: camisa $990.",
-  accesorios: "Accesorios (corbata, moños, tiradores, cinturón, pañuelos) $200 c/u."
+  camisa: "Camisa niño alquiler $400. camisa adulto a la venta $990.",
+  accesorios: "Accesorios (corbata, moños, tiradores, cinturón, pañuelos) $200 c/u.",
+  garantia: "1000 pesos en efectivo"
 };
 
 // Helpers para detección robusta
@@ -183,6 +210,23 @@ function obtenerRespuestaRapida(mensaje) {
   if (texto.match(/(dañad[ao]|romp|perd[ií]|ensuci|manch|lavar|lavarlo|limpiar)/))
     return "No es necesario que laves la prenda. Si se mancha o se daña, Il Vestito se encarga del lavado. En caso de daño grave o pérdida, se retiene el depósito y puede aplicarse un cargo adicional de $2000 según el estado.";
 
+
+ if (texto.match(/(cuand[o] teng[o] qu[e] retirar el traje)/))
+    return "El traje se retira el dia antes del evento de 17 y 30 a 18 y 30 o el mismo dia del evento en nuestro horario de atencion";
+
+if (texto.match(/(cuand[o] teng[o] qu[e] devolver el traje)/))
+    return "El traje se devuelve el siguiente dia habil";
+
+if (texto.match(/(la garantia se devuelve)/))
+    return "la garantia se devuelve sin problemas si vieno en tiempo y forma";
+
+if (texto.match(/(tiene[n] cort[e] sli[m] f[i]t[t])/))
+    return "Nuestros trajes tiene un corte slim fit como tambien podemos tener cortes clasicos";
+
+
+
+
+
   // ------- DIRECCIÓN -------
   if (texto.match(/(direcci[oó]n|donde|ubicad[ao]s?)/))
     return "Estamos en Agraciada 4273, Paso Molino, Montevideo.";
@@ -195,19 +239,76 @@ function obtenerRespuestaRapida(mensaje) {
   if (texto.match(/(tel[eé]fono|whatsapp|contacto|n[uú]mero)/))
     return "Podés comunicarte al 097 931 236 por llamadas o WhatsApp.";
 
+  // ------- REDES SOCIALES -------
+if (texto.match(/(instagram|ig)/))
+  return "Sí, tenemos Instagram 😊 Podés encontrarnos como [@ilvestito.uy](https://www.instagram.com/ilvestito.uy) 📸";
+
+if (texto.match(/(facebook|meta|face)/))
+  return "Sí, también estamos en Facebook 🙌 Buscanos como [Il Vestito Uruguay](https://www.facebook.com/ilvestitouruguay) 📘";
+
+
+
   // ------- PRECIOS DETALLADOS -------
   if (texto.includes("chaleco"))
     return "El alquiler del chaleco cuesta $450, y el de niño $300.";
   if (texto.includes("zapato"))
     return "El alquiler de zapatos cuesta $650, y los de niño $500.";
   if (texto.includes("camisa"))
-    return "Las camisas de niño cuestan $400 y a la venta cuestan $990.";
+    return "Las camisas de niño cuesta $400 el alquiler y de adulto a la venta cuesta $990.";
   if (texto.includes("accesorio") || texto.includes("corbata") || texto.includes("moño") || texto.includes("tirador") || texto.includes("cinturón") || texto.includes("pañuelo"))
     return "Los accesorios (corbata, moños, tiradores, cinturón o pañuelos) cuestan $200 cada uno.";
   if (texto.includes("saco") || texto.includes("pantalón") || texto.includes("pantalon"))
     return "El alquiler de solo saco o pantalón cuesta $750 (si necesita dobladillo $850).";
-  if (texto.includes("traje"))
-    return "El alquiler de un traje (saco + pantalón) cuesta $1300.";
+// ------- PRECIOS DETALLADOS -------
+
+// Si el mensaje menciona palabras generales como “precio”, “traje”, “alquiler”, etc.
+if (
+  texto.includes("precio") ||
+  texto.includes("precios") ||
+  texto.includes("traje") ||
+  texto.includes("alquiler") ||
+  texto.includes("valor")
+) {
+  return `📋 *Lista completa de precios Il Vestito:*
+
+- Traje (saco + pantalón): $1300 
+- Solo saco: $750 
+- Solo pantalón: $750 (con dobladillo $850)
+- Chaleco: $450 — Chaleco niño: $300
+- Zapatos: $650 — Zapatos niño: $500
+- Camisa niño alquiler: $400 — De adulto a la venta: $990
+- Accesorios (corbata, moño, tirador, cinturón, pañuelo): $200 c/u
+- garantia: 1000 pesos en efectivo
+
+
+`;
+}
+
+// Si menciona algo específico, responde solo eso
+
+  // ------- GARANTÍA Y TRANSFERENCIA -------  
+  if (texto.match(/(transferir|transferencia|devolver|garant[ií]a|dep[oó]sito)/)) {
+    return "La garantía siempre es en efectivo y no se puede transferir ni enviar por banco o Mercado Pago. Se paga y se devuelve en el local, de forma presencial, al entregar o retirar el traje.";
+  }
+
+if (texto.includes("chaleco"))
+  return "El alquiler del chaleco cuesta $450, y el de niño $300.";
+if (texto.includes("zapato"))
+  return "El alquiler de zapatos cuesta $650, y los de niño $500.";
+if (texto.includes("camisa"))
+  return "Las camisas de niño el alquiler cuesta $400 y para adulto a la venta cuesta $990.";
+if (
+  texto.includes("accesorio") ||
+  texto.includes("corbata") ||
+  texto.includes("moño") ||
+  texto.includes("tirador") ||
+  texto.includes("cinturón") ||
+  texto.includes("pañuelo")
+)
+  return "Los accesorios (corbata, moños, tiradores, cinturón o pañuelos) cuestan $200 cada uno.";
+if (texto.includes("saco") || texto.includes("pantalón") || texto.includes("pantalon"))
+  return "El alquiler de solo saco o pantalón cuesta $750 (si necesita dobladillo $850).";
+
 
   // ------- PRECIOS GENÉRICO -------
   if (texto.includes("precio") || texto.includes("valor") || texto.includes("alquiler"))
@@ -242,6 +343,40 @@ function obtenerRespuestaRapida(mensaje) {
 // ==========================================
 app.post("/chat", async (req, res) => {
   const { mensaje } = req.body;
+
+  app.post("/webhook", async (req, res) => {
+  const body = req.body;
+
+  // 🚫 1️⃣ Detectar si el mensaje es audio y avisar
+  if (body.entry?.[0]?.changes?.[0]?.value?.messages?.[0]?.type === "audio") {
+    const from = body.entry[0].changes[0].value.messages[0].from;
+
+    await axios.post(`https://graph.facebook.com/v18.0/${process.env.PHONE_NUMBER_ID}/messages`, {
+      messaging_product: "whatsapp",
+      to: from,
+      text: { body: avisoAudios }
+    }, {
+      headers: {
+        "Authorization": `Bearer ${process.env.WHATSAPP_TOKEN}`,
+        "Content-Type": "application/json"
+      }
+    });
+
+    // ✅ Cortamos acá porque es audio, no hace falta seguir procesando
+    return res.sendStatus(200);
+  }
+
+  // ✉️ 2️⃣ Si es texto, seguimos como siempre
+  const message = body.entry?.[0]?.changes?.[0]?.value?.messages?.[0];
+  const text = message?.text?.body;
+
+  if (text) {
+    // acá va toda tu lógica normal de respuestas
+  }
+
+  res.sendStatus(200);
+});
+
 
   try {
     // 🚫 Detectar lenguaje inapropiado
@@ -289,14 +424,14 @@ REGLAS:
 - Si pide “precio de X”, respondé el precio exacto de X en una o dos frases, sin rodeos.
 - Si pregunta por talles, medidas o cortes, aclarar que debe venir al local a probarse la prenda.
 - Si pregunta por seña o reserva, aclarar que es 50% del alquiler y no se reembolsa.
-- Si pregunta por pago con tarjeta, confirmá que se acepta crédito o débito.
-- Si pregunta por garantía, aclarar que son $1000 en efectivo y no se transfiere.
+- Si pregunta por pago con tarjeta, confirmá que se acepta mercado pago o efectivo.
+- Si pregunta por garantía, aclarar que son $1000 en efectivo.
 - Si pregunta por cambio de prenda, aclarar que se puede hacer abonando el 50% de la nueva.
 - Si pregunta si puede retirar sin el papel, aclarar que puede hacerlo presentando la cédula.
 - Si pregunta por horarios, recordá el horario del local.
 - Sé breve, amable y profesional, como si atendieras personalmente en Il Vestito.
 - Si el cliente pregunta algo parecido pero no exacto, buscá el significado más cercano en el contexto.
-- Si el usuario dice “gracias” o “ok”, respondé cordialmente sin repetir precios.
+- Si el usuario dice “gracias” o “ok”, respondé cordialmente sin repetir precios o nada del contexto.
 `
   },
   ...historialConversacion,
